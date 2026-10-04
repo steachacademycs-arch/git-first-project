@@ -10,9 +10,9 @@
 - SQlite
 
 ## Installation
-1.Clone the repo
-2.Create a virtual environment
-3.Install the package
+1. Clone the repo
+2. Create a virtual environment
+3. Install the package
 
 ## How to run
 ```bash
