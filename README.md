@@ -2,12 +2,12 @@
  A python base application for  student records.
 
 ## Features
--Add students
--Tracks ttendance
+- Add students
+- Tracks ttendance
 
 ## Technologies used
--Python
--SQlite
+- Python
+- SQlite
 
 ## Installation
 1.Clone the repo
@@ -20,5 +20,5 @@ python main.py
 ```
 
 ## Future Improvements
--Add a web interface
+- Add a web interface
 
